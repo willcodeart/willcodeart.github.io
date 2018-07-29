@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: shuyong
-subtitle:
+title: will
+subtitle:The past is past, then enjoy moving ahead
 description:
 author: will
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -90,7 +90,7 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: 
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
