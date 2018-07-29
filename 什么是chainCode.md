@@ -1,4 +1,4 @@
-## 什么是chainCode
+### 什么是chainCode
 ChainCode 就是智能合约
 
 Chaincode 属于某个channel
@@ -13,7 +13,7 @@ Chaincode 属于某个channel
 
 chaincode 的背书策略   所有节点同意，部分节点同意，
 
-##   MSP
+###   MSP
 Membership service provider
 
 分发证书给peer以及order
@@ -22,7 +22,7 @@ msp ID
 * who you are  
 * which network you are
 
-## 术语回顾
+### 术语回顾
 * channels
   数据通道，可以理解为独立的实例
   channel类似于群组
