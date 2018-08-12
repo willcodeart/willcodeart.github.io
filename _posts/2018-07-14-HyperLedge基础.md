@@ -5,8 +5,6 @@ categories:
 tags:
 ---
 
-
-
 ### 什么是chainCode
 
 ChainCode 就是智能合约
