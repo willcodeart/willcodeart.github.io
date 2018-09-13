@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: welcome to will's homepage
+title: hello,welcome to will homepage
 subtitle: The past is past, then enjoy moving ahead
 description:
 author: will
@@ -110,7 +110,7 @@ seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -119,7 +119,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
+  #categories: /categories/
   #about: /about/
   #archives: /archives/
   tags: /tags/
