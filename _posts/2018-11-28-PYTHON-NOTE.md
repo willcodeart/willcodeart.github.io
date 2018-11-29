@@ -40,3 +40,21 @@ sys.setdefaultencoding('utf-8')
 LANG=zn jupyter-notebook
 ```
 
+
+
+#### 包安装报错
+
+- 
+
+```
+Installing collected packages: numpy, python-dateutil, pandas
+  Found existing installation: numpy 1.8.0rc1
+Cannot uninstall 'numpy'. It is a distutils installed project and thus we cannot accurately determine which files belong to it which would lead to only a partial uninstall.
+```
+
+方法，忽略继续安装
+
+```
+sudo pip install pandas --ignore-installed numpy
+```
+
