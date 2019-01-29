@@ -57,3 +57,13 @@ Cannot uninstall 'numpy'. It is a distutils installed project and thus we cannot
 sudo pip install pandas --ignore-installed numpy
 ```
 
+
+
+#### 安装报找不到版本
+
+```
+pip3 install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+
+pip3 install pandas -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+```
+
