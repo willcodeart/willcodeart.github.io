@@ -65,5 +65,7 @@ sudo pip install pandas --ignore-installed numpy
 pip3 install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
 
 pip3 install pandas -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+
+pip3 install pandas -i http://mirrors.aliyun.com/pypi/simple/   --trusted-host mirrors.aliyun.com
 ```
 
