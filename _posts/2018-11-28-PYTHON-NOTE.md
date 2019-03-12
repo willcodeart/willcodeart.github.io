@@ -69,3 +69,19 @@ pip3 install pandas -i http://pypi.douban.com/simple --trusted-host pypi.douban.
 pip3 install pandas -i http://mirrors.aliyun.com/pypi/simple/   --trusted-host mirrors.aliyun.com
 ```
 
+
+
+### 卸载pip3  并重新安装
+
+```
+sudo pip3 uninstall pip
+
+打开链接：
+https://bootstrap.pypa.io/get-pip.py
+
+复制粘贴另存为链接中的文本,可以保存为get-pip.py。
+注意：其中内容很多，必须等网页加载完再复制，然后通过已经安装的python3解释器解释执行另存为的文件
+
+$python3 get-pip.py
+```
+
