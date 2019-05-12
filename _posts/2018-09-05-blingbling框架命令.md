@@ -60,5 +60,12 @@ npm install express --registry https://registry.npm.taobao.org
 
 ```
 src/redis-server
+
+redis_cli
+
+keys *
+
+flushall
+
 ```
 
