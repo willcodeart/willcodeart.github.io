@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: I WILL
+title: HelloWorld
 subtitle: The past is past, then enjoy moving ahead
 description:
 author: will
@@ -120,7 +120,7 @@ index_with_subtitle: true
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+   about: /about/
   #archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
