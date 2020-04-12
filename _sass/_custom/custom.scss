@@ -1,1 +1,47 @@
 // Custom styles.
+
+.posts-expand .post {
+    margin-top: 50px!important;
+  }
+
+
+.logo-line-before, .logo-line-after {
+    display: block;
+    overflow: hidden;
+    margin: 0 auto;
+    width: 75%;
+    display: none!important;
+}
+
+.logo-line-before, .logo-line-after {
+    display: block;
+    overflow: hidden;
+    margin: 0 auto;
+    width: 75%;
+    display: none;
+}
+
+.post-meta-item-icon {
+    margin-right: 3px;
+    display: none;
+}
+
+.post-button .btn {
+    color: #b3a7a7;
+    font-size: 14px;
+    background: transparent;
+    border-radius: 0;
+    /* line-height: 2; */
+    margin: 0 4px 8px 4px;
+}
+
+.post-button a {
+    margin: 0 8px 8px 0 !important;
+    padding: 0;
+    font-size: 14px;
+    color: #666;
+    background: none;
+    border: none;
+    /* border-bottom: 2px solid #666; */
+    transition-property: border;
+}
