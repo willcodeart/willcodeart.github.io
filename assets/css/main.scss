@@ -52,3 +52,8 @@ $jekyll-config-map : {{ config_map }};
 // Custom Layer
 // --------------------------------------------------
 @import "_custom/custom";
+
+
+.posts-expand .post {
+  margin-top: 50px!important;
+}
